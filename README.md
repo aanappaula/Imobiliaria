@@ -21,7 +21,7 @@
 ## Diagrama MER
 
 
-![MER](/mer.png)
+![MER](/diagramaMER.png)
 
 ## Instruções SQL
 
