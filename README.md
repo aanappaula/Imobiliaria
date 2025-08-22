@@ -16,7 +16,7 @@
 
 ## Diagrama de classe da UML
 
-![Diagrama de classe](/diagrama_de_classe.png)
+![Diagrama de classe](/classeUML.png)
 
 ## Diagrama MER
 
